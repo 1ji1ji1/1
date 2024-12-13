@@ -1,0 +1,4 @@
+Email,Name,Lastname,IP,Gender
+mailbox_quota_exceeded@example.com,Testname,Testlast,1.12.4.4,Male
+free_email@example.com,Testname2,Testlast2,0.13.2.3,Female
+mail_server_did_not_respond@example.com,Testname3,Testname3,1.1.1.1,Male
